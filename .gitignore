@@ -1,0 +1,9 @@
+.cache
+dist
+media
+node_modules
+package.json
+package-lock.json
+.DS_Store
+index.html
+index.js
